@@ -14,7 +14,7 @@
 ## My Statistics
 
  
-[![Joseph's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jmc37&theme=dark)](https://git.io/praveenscience)
+[![Joseph's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jmc37&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=jmc37&show_icons=true&theme=tokyonight) | ![Joseph GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmc37&theme=tokyonight) |
 | --- | --- |
