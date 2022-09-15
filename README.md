@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joseph Chan </h1>
 
 - 🔭 I’m currently working on a javascript website for BCIT's Computing CLub
 - 🌱 I’m currently learning Java and C
