@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joseph Chan </h1>
 
+![image](https://user-images.githubusercontent.com/74024192/190506362-3eb83ebc-f8be-4764-b0d0-e019083f0cda.png)
+
 
 - 🔭 I’m currently working on a javascript website for BCIT's Computing Club
 - 🌱 I’m currently learning Java and C
