@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Joseph Chan </h1>
 
 
-- 🔭 I’m currently working on a javascript website for BCIT's Computing Club
+- 🔭 I’m currently working on a React website for BCIT's Computing Club
 - 🌱 I’m currently learning Java and C
 - 👯 I’m looking to collaborate on new projects!
 - 🤔 I’m looking for help with Cloud Computing
