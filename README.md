@@ -16,9 +16,7 @@
 
 | ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=jmc37&show_icons=true&theme=tokyonight) | ![Joseph GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jmc37&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmc37&theme=tokyonight) | 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmc37&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
