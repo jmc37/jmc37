@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on devloping my skills with AWS
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: https://www.linkedin.com/in/joseph-chan-113822203/
-- 😄 Pronouns: He/Him
 
 ## My Statistics
 
